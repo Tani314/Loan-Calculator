@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Loan-Calculator/static/css/main.d2a7ff52.chunk.css",
+    "main.js": "/Loan-Calculator/static/js/main.cd007184.chunk.js",
+    "main.js.map": "/Loan-Calculator/static/js/main.cd007184.chunk.js.map",
+    "runtime-main.js": "/Loan-Calculator/static/js/runtime-main.f6d4af30.js",
+    "runtime-main.js.map": "/Loan-Calculator/static/js/runtime-main.f6d4af30.js.map",
+    "static/js/2.d851775e.chunk.js": "/Loan-Calculator/static/js/2.d851775e.chunk.js",
+    "static/js/2.d851775e.chunk.js.map": "/Loan-Calculator/static/js/2.d851775e.chunk.js.map",
+    "static/js/3.20a9d646.chunk.js": "/Loan-Calculator/static/js/3.20a9d646.chunk.js",
+    "static/js/3.20a9d646.chunk.js.map": "/Loan-Calculator/static/js/3.20a9d646.chunk.js.map",
+    "index.html": "/Loan-Calculator/index.html",
+    "static/css/main.d2a7ff52.chunk.css.map": "/Loan-Calculator/static/css/main.d2a7ff52.chunk.css.map",
+    "static/js/2.d851775e.chunk.js.LICENSE.txt": "/Loan-Calculator/static/js/2.d851775e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d4af30.js",
+    "static/js/2.d851775e.chunk.js",
+    "static/css/main.d2a7ff52.chunk.css",
+    "static/js/main.cd007184.chunk.js"
+  ]
+}
